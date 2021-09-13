@@ -7,7 +7,7 @@
 * Add multiple map layers to geographical maps using Leaflet control plugins to add user interface controls.</br>
 * Use JavaScript ES6 functions to add GeoJSON data, features, and interactivity to maps.</br>
 * Render maps on a local server.</br>
-
+![alt text](https://github.com/ramyasnl/Mapping_Earthquakes_with_D3/blob/main/earthquake.png)
 ### To the reader
 In the "challenge" , i have 3 seperate statements for Deliverable1,deliverable2,deliverable3 in my "index.html" , </br>also i have the separate "logic.js" for all 3 of them in different names in my "js" folder ,<br/>
 Deliverable 1is with "tectonic_logic.js" is with  Street,Satellite ,Techtonicplate,Earthquake <br/> 
